@@ -217,4 +217,4 @@ public partial class MainWindow : Window
 
 ![Output.gif](https://support.syncfusion.com/kb/agent/attachment/article/21460/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUwNDY1Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.twCs9LSjXNacquyO-XilDKHTDBd45AOqsjsBbJE9FzQ)
 
-For more details, you can refer this KB article
+For more details, you can refer this [How to Dynamically Handle Multiple Series in a ChartSeriesCollection Using MVVM in WPF SfChart](https://support.syncfusion.com/kb/article/21460/how-to-dynamically-handle-multiple-series-in-a-chartseriescollection-using-mvvm-in-wpf-sfchart) KB article
